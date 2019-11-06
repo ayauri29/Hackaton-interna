@@ -3,8 +3,6 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Login} from './components/Login';
 import { Inicio} from './components/Inicio';
 import {LinkCatalogo} from './components/LinkCatalogo';
-import {NuevoPedido} from './components/NuevoPedido';
-import {Ciclos} from './components/Ciclos';
 import { Consultora } from './views/Consultora'
 import {Bienvenida} from './components/Bienvenida'
 export const RouteHack = () => {
@@ -29,12 +27,6 @@ export const RouteHack = () => {
        <Route path="/link">
           <LinkCatalogo />
         </Route>
-        <Route path="/nuevo">
-          <NuevoPedido />
-        </Route>
-       <Route path="/ciclos">
-          <Ciclos />
-        </Route> 
       </Switch>
     </Router>
   );
