@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/Hackaton-interna/static/css/main.251f3277.chunk.css",
-    "main.js": "/Hackaton-interna/static/js/main.7a7da449.chunk.js",
-    "main.js.map": "/Hackaton-interna/static/js/main.7a7da449.chunk.js.map",
+    "main.css": "/Hackaton-interna/static/css/main.f0ca3388.chunk.css",
+    "main.js": "/Hackaton-interna/static/js/main.12c9aa43.chunk.js",
+    "main.js.map": "/Hackaton-interna/static/js/main.12c9aa43.chunk.js.map",
     "runtime-main.js": "/Hackaton-interna/static/js/runtime-main.91a4bbcb.js",
     "runtime-main.js.map": "/Hackaton-interna/static/js/runtime-main.91a4bbcb.js.map",
-    "static/js/2.4af3a8ff.chunk.js": "/Hackaton-interna/static/js/2.4af3a8ff.chunk.js",
-    "static/js/2.4af3a8ff.chunk.js.map": "/Hackaton-interna/static/js/2.4af3a8ff.chunk.js.map",
+    "static/js/2.05d565eb.chunk.js": "/Hackaton-interna/static/js/2.05d565eb.chunk.js",
+    "static/js/2.05d565eb.chunk.js.map": "/Hackaton-interna/static/js/2.05d565eb.chunk.js.map",
     "index.html": "/Hackaton-interna/index.html",
-    "precache-manifest.49469bdb8522dd72f11e3f9d6fcb302e.js": "/Hackaton-interna/precache-manifest.49469bdb8522dd72f11e3f9d6fcb302e.js",
+    "precache-manifest.86cafd3c858994481fbbae6cbf141b24.js": "/Hackaton-interna/precache-manifest.86cafd3c858994481fbbae6cbf141b24.js",
     "service-worker.js": "/Hackaton-interna/service-worker.js",
-    "static/css/main.251f3277.chunk.css.map": "/Hackaton-interna/static/css/main.251f3277.chunk.css.map",
+    "static/css/main.f0ca3388.chunk.css.map": "/Hackaton-interna/static/css/main.f0ca3388.chunk.css.map",
+    "static/media/canastaficha.png": "/Hackaton-interna/static/media/canastaficha.0f3abca9.png",
+    "static/media/catalogo.jpeg": "/Hackaton-interna/static/media/catalogo.f3dfe9af.jpeg",
+    "static/media/google-plus.png": "/Hackaton-interna/static/media/google-plus.7b1252f4.png",
     "static/media/img1.jpeg": "/Hackaton-interna/static/media/img1.e3b2509b.jpeg",
-    "static/media/img2.jpeg": "/Hackaton-interna/static/media/img2.e498f22a.jpeg"
+    "static/media/img2.jpeg": "/Hackaton-interna/static/media/img2.e498f22a.jpeg",
+    "static/media/message.png": "/Hackaton-interna/static/media/message.7d0ef4c0.png",
+    "static/media/pavito.png": "/Hackaton-interna/static/media/pavito.617fac19.png",
+    "static/media/platos.png": "/Hackaton-interna/static/media/platos.2db1c16b.png",
+    "static/media/wt.png": "/Hackaton-interna/static/media/wt.70333665.png"
   },
   "entrypoints": [
     "static/js/runtime-main.91a4bbcb.js",
-    "static/js/2.4af3a8ff.chunk.js",
-    "static/css/main.251f3277.chunk.css",
-    "static/js/main.7a7da449.chunk.js"
+    "static/js/2.05d565eb.chunk.js",
+    "static/css/main.f0ca3388.chunk.css",
+    "static/js/main.12c9aa43.chunk.js"
   ]
 }
